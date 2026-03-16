@@ -1,3 +1,4 @@
+`sha256 = a15818d4dcbb67bda6701372ccbe8070bc4d8c0219689f9c9de817cb5f91ff81`
 # PANASONIC Let's Note CF-SV7 (CF-SV7RDAVS) BIOS
 ## ※ INTEL-SA-00289 (Plundervolt) PATCHED ※
 
